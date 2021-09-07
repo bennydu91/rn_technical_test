@@ -1,64 +1,64 @@
 {
-  "users": [
-    {
-      "id": 0,
-      "name": "Victor",
-      "age": 29,
-      "dev": "Front"
-    },
-    {
-      "id": 1,
-      "name": "Quang Minh",
-      "age": 28,
-      "dev": "Front"
-    },
-    {
-      "id": 2,
-      "name": "Ludovic",
-      "age": 27,
-      "dev": "Front"
-    },
-    {
-      "id": 3,
-      "name": "Léon",
-      "age": 31,
-      "dev": "Windev"
-    },
-    {
-      "id": 4,
-      "name": "Yousra",
-      "age": 27,
-      "dev": "Front"
-    },
-    {
-      "id": 5,
-      "name": "Francky",
-      "age": 29,
-      "dev": "Windev"
-    },
-    {
-      "id": 6,
-      "name": "Thomas",
-      "age": 31,
-      "dev": "NodeJS"
-    },
-    {
-      "id": 7,
-      "name": "Quentin",
-      "age": 31,
-      "dev": "NodeJS"
-    },
-    {
-      "id": 8,
-      "name": "Tony",
-      "age": 25,
-      "dev": "NodeJS"
-    },
-    {
-      "id": 9,
-      "name": "Grégory",
-      "age": 38,
-      "dev": "Windev"
-    },
-  ]
+   "users":[
+      {
+         "id":0,
+         "name":"Victor",
+         "age":29,
+         "dev":"Front"
+      },
+      {
+         "id":1,
+         "name":"Quang Minh",
+         "age":28,
+         "dev":"Front"
+      },
+      {
+         "id":2,
+         "name":"Ludovic",
+         "age":27,
+         "dev":"Front"
+      },
+      {
+         "id":3,
+         "name":"Léon",
+         "age":31,
+         "dev":"Windev"
+      },
+      {
+         "id":4,
+         "name":"Yousra",
+         "age":27,
+         "dev":"Front"
+      },
+      {
+         "id":5,
+         "name":"Francky",
+         "age":29,
+         "dev":"Windev"
+      },
+      {
+         "id":6,
+         "name":"Thomas",
+         "age":31,
+         "dev":"NodeJS"
+      },
+      {
+         "id":7,
+         "name":"Quentin",
+         "age":31,
+         "dev":"NodeJS"
+      },
+      {
+         "id":8,
+         "name":"Tony",
+         "age":25,
+         "dev":"NodeJS"
+      },
+      {
+         "id":9,
+         "name":"Grégory",
+         "age":38,
+         "dev":"Windev"
+      }
+   ]
 }
